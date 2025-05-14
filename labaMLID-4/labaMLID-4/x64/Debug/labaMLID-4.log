@@ -1,0 +1,4 @@
+﻿  labaMLID-4.cpp
+C:\Users\Stepa\source\repos\labaMLID-4\labaMLID-4\labaMLID-4.cpp(10,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Stepa\source\repos\labaMLID-4\labaMLID-4\labaMLID-4.cpp(51,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  labaMLID-4.vcxproj -> C:\Users\Stepa\source\repos\labaMLID-4\x64\Debug\labaMLID-4.exe
